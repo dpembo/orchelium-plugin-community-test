@@ -8,7 +8,7 @@ description: |
 source: community
 maintainer: "pembo"
 repository_url: "https://github.com/dpembo/orchelium-plugin-community-test"
-category: storage
+category: test
 tags: [mount, nfs, smb, luks, filesystem]
 
 inputs:
