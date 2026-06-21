@@ -6,7 +6,7 @@ description: |
   Use this as a starting point and reference template when building your own
   Orchelium community plugins.
 source: community
-maintainer: "your-github-username"
+maintainer: "dpembo"
 repository_url: "https://github.com/your-github-username/orchelium-plugin-community-hello-world"
 category: tools
 tags: [example, template, hello-world, starter]
