@@ -7,7 +7,11 @@ description: |
   Orchelium community plugins.
 source: community
 maintainer: "dpembo"
+<<<<<<< HEAD
 repository_url: "https://github.com/dpembo/orchelium-plugin-community-hello-world"
+=======
+repository_url: "https://github.com/your-github-username/orchelium-plugin-community-hello-world"
+>>>>>>> refs/remotes/origin/main
 category: tools
 tags: [example, template, hello-world, starter]
 
