@@ -19,7 +19,7 @@ inputs:
     placeholder: "Hello"
     description: |
       The greeting word or phrase to display.
-      e.g. Hello, Good morning, Greetings
+      e.g. Oh shit, Hello, Good morning, Greetings
 
   - name: recipient
     label: Name
